@@ -4,4 +4,6 @@ I'm a firm believer of making your environment work and **LOOK** the way you wan
 
 
 
+
+
 Shout out Ghostty:https://ghostty.org/docs 
