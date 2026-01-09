@@ -1,10 +1,10 @@
-font-size = 22
+font-size = 18
 
 background-opacity = 1
 
 background = #222222
 
-background-image = /Users/dillonansah/Desktop/browngradient.jpg
+background-image = /Users/dillonansah/Documents/browngradient.jpg
 background-image-fit = cover
 background-image-opacity = 0.9
 
