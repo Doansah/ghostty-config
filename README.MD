@@ -2,7 +2,7 @@ Hi! This is my wonderful, splendid, sensational ghostty config to make my termin
 
 I'm a firm believer of making your environment work and **LOOK** the way you want it to, so... 
 
-
+[image](ghostty-config.png)
 
 
 
